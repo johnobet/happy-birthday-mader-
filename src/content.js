@@ -21,6 +21,7 @@ export const letterPhotos = ['photos/1.jpg', 'photos/3.jpg', 'photos/5.jpg']
 // Videos live in public/video/. Add one line per video; they show in this order.
 export const videos = [
   { src: 'video/message-1.mp4', poster: 'video/message-1.jpg', label: 'a little message from me' },
+  { src: 'video/message-2.mp4', poster: 'video/message-2.jpg', label: 'a little message from your little girl' },
 ]
 
 export const letter = {
